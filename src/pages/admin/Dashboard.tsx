@@ -28,7 +28,7 @@ const Dashboard = () => {
     },
     {
       title: "Revenu",
-      value: "€45,231",
+      value: "45,231 DA",
       description: "+20% depuis le mois dernier",
       icon: TrendingUp,
       trend: "+20%",
@@ -84,7 +84,7 @@ const Dashboard = () => {
                     <div>
                       <p className="text-sm font-medium">Commande #{1000 + i}</p>
                       <p className="text-xs text-muted-foreground">
-                        2 articles · €{(Math.random() * 200 + 50).toFixed(2)}
+                        2 articles · {(Math.random() * 200 + 50).toFixed(2)} DA
                       </p>
                     </div>
                     <div className="text-right">
@@ -133,3 +133,4 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
