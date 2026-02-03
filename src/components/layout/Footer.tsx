@@ -84,7 +84,7 @@ export const Footer = () => {
                 <Phone className="h-5 w-5 text-gold mt-0.5" />
                 <div className="text-sm">
                   
-                  <p className="text-cream/70">+2136 98 32 41 45</p>
+                  <p className="text-cream/70">+213 698 324 145</p>
                   <p className="text-cream/50 text-xs">WhatsApp disponible</p>
                 </div>
               </li>
