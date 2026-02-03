@@ -48,7 +48,7 @@ export const Header = () => {
           {/* Right Actions */}
           <div className="flex items-center gap-4">
             <a
-              href="https://wa.me/213XXXXXXXXX"
+              href="https://wa.me/213698324145"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:flex items-center gap-2 text-sm text-muted-foreground hover:text-gold transition-colors"
@@ -117,7 +117,7 @@ export const Header = () => {
                 </Link>
               ))}
               <a
-                href="https://wa.me/213XXXXXXXXX"
+                href="https://wa.me/213698324145"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-muted-foreground py-2"
