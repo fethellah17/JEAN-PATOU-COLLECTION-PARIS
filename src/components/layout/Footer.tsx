@@ -83,13 +83,14 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <Phone className="h-5 w-5 text-gold mt-0.5" />
                 <div className="text-sm">
-                  <p className="text-cream/70">+213 XX XX XX XX</p>
+                  
+                  <p className="text-cream/70">+2136 98 32 41 45</p>
                   <p className="text-cream/50 text-xs">WhatsApp disponible</p>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-gold mt-0.5" />
-                <p className="text-cream/70 text-sm">contact@jeanpatou-dz.com</p>
+                <p className="text-cream/70 text-sm">cosmisadyou@gmail.com</p>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-gold mt-0.5" />
