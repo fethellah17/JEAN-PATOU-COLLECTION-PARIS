@@ -11,20 +11,20 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Téléphone",
-    content: "+213 XX XX XX XX",
+    content: "+213 698 324 145",
     subtitle: "Du samedi au jeudi, 9h-18h",
   },
   {
     icon: MessageCircle,
     title: "WhatsApp",
-    content: "+213 XX XX XX XX",
+    content: "+213 698 324 145",
     subtitle: "Réponse rapide garantie",
     isWhatsApp: true,
   },
   {
     icon: Mail,
     title: "Email",
-    content: "contact@jeanpatou-dz.com",
+    content: "cosmisadyou@gmail.com",
     subtitle: "Réponse sous 24h",
   },
   {
