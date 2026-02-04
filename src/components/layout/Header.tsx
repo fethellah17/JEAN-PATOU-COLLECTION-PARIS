@@ -117,7 +117,7 @@ export const Header = () => {
                 </Link>
               ))}
               <a
-                href="https://wa.me/213698324145"
+                href="https://wa.me/213770965737"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-muted-foreground py-2"
