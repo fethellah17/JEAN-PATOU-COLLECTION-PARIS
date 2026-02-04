@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { ShoppingBag, Menu, X, Phone, Shield } from "lucide-react";
 import { useCart } from "@/context/CartContext";
-import logo from "@/assets/logo.jpg";
+import logo from "/JeanPatouCollection.jpg";
 
 const navLinks = [
   { href: "/", label: "Accueil" },
